@@ -30,7 +30,15 @@ Set Health
 
 Set Round
 
-
+**Credits**
 Go check out @shxrkyylol 
 
-he is the one who let me use the LICENSE and the .gitgnore
+He is the one who let me use the LICENSE and the .gitgnore
+
+
+
+Go check out @Dogwaterzx 
+
+
+He is kind enough to let me use his Flood Game Script 
+
