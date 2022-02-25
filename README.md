@@ -33,4 +33,4 @@ Set Round
 
 Go check out @shxrkyylol 
 
-he is the one who let me use the LICENSE and the .gitgore
+he is the one who let me use the LICENSE and the .gitgnore
