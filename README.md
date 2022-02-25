@@ -12,7 +12,7 @@ I dont know how to code to well but ill try my best to make tabs so you guys can
 
 
 **Credits**
-THe following Blooket hacks were from @ZasticBradyn please go show him support go star his projects he is the mastermind with javascript
+The following Blooket hacks were from @ZasticBradyn please go show him support go star his projects he is the mastermind with javascript
 
 Max All Towers
 Set Coins
