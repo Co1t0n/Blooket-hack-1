@@ -29,3 +29,8 @@ Set Health
 
 
 Set Round
+
+
+Go check out @shxrkyylol 
+
+he is the one who let me use the LICENSE and the .gitgore
