@@ -1,9 +1,14 @@
-Please give me **Credits** if you use the my codes! 
+Please give me **Credits** if you use my codes! 
 
 
-# Blooket-hack
-If you need hacks make an issue and @ me I will try to respond as soon as possible 
-I dont know how to code to well but ill try my best to make tabs so you guys can ust copy the code and do it that way just so it much easyier 
+# Blooket-hack 
+If the hacks aren't working make an issue and do @Blooket-dude then tell me what hacks aren't working! I will try to respond the same day if I cant respond the same day it will rpobally be the next day. 
+
+
+If you belive your code is being used make an issue then @ me! I will either remove it or give credits, whichever one you want me to do. 
+
+
+I dont want to have to deal with any legal consequences
 
 
 **Credits**
