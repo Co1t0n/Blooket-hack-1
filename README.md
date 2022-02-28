@@ -16,6 +16,13 @@ I dont want to have to deal with any legal consequences
 
 The following Blooket hacks were from @ZasticBradyn please go show him support go star his projects he is the mastermind with javascript
 
+
+Make Site Draggable
+
+
+Remove Gliz Credits
+
+
 Max All Towers
 
 
