@@ -1,9 +1,4 @@
-NONE OF THESE AHCKS ARE MINE!!!!
-I GOT THEM FROM https://schoolcheats.net
-IM JUST COPYING THEM FOR PEOPLE WHO CANT ACCESS THAT PAGE!!!!
-
-
-
+Please give me **Credits** if you use the my codes! 
 
 
 # Blooket-hack
@@ -35,3 +30,7 @@ Set Round
 
 
 **He is kind enough to let me use his Flood Game Script**
+
+
+
+**If you have read this far thank you and have a great day remeber to make an issue if the hacks arent working**
