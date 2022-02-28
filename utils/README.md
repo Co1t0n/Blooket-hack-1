@@ -1,4 +1,4 @@
-**RemoveGlizCredit.js
+**RemoveGlizCredit.js**
 
 
 **Removes the box that apears when you run any of gliz's scripts**
