@@ -50,11 +50,11 @@ Set Round
 
 
 
-If the hacks aren't working make an issue and do @Blooket-dude then tell me what hacks aren't working! I will try to respond the same day if I cant respond the same day it will probally be the next day. 
+If the hacks aren't working make an issue and do @Snowflake-Blooket-dude then tell me what hacks aren't working! I will try to respond the same day if I cant respond the same day it will probally be the next day. 
 
 
 
-If you belive your code is being used make an issue then @ me! I will either remove it or give credits, whichever one you want me to do. 
+If you belive your code is being used make an issue then do @Snowflake-Blooket-dude me! I will either remove it or give credits, whichever one you want me to do. 
 
 
 
