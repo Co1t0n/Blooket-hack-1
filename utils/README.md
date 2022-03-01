@@ -6,14 +6,6 @@
 
 
 
-**GetGameID**
-
-
-
-**Gets the ID of the game your in (only works on live games)**
-
-
-
 **MakeSiteDraggable.js**
 
 
